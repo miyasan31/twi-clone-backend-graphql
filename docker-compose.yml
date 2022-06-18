@@ -3,7 +3,7 @@ version: '3'
 services:
   postgres:
     # どのイメージを使用するか（DockerHubから選択）
-    image: postgres:13.1
+    image: postgres:13.7
     # コンテナ作成時の名前
     container_name: postgres
     # データの保管&同期
