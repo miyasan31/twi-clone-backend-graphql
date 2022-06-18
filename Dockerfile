@@ -1,4 +1,4 @@
-FROM node:14.15.1
+FROM node:14.19.3
 
 # imageの説明
 LABEL version="0.0.1"
